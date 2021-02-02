@@ -31,20 +31,23 @@ This hack will help you learn:
 ## Challenges
 
 * [Challenge 0](./Student/challenge00.md) - Setup (Pre-day)
-* [Challenge 1](./Student/challenge01.md) - Set up GitOps on AKS
-* [Challenge 2](./Student/challenge02.md) - Understand YAML and Configs
-* [Challenge 3](./Student/challenge03.md) - Deploy application using Gitops
-* [Challenge 4](./Student/challenge04.md) - GitOps - Operations by PR
-* [Challenge 5](./Student/challenge05.md) - Config Management
-* [Challenge 6](./Student/challenge06.md) - GitOps for Self Service and Automation
-* [Challenge 7](./Student/challenge07.md) - GitOps for Uptime and Reliability
-
+* [Challenge 1](./Student/challenge01.md) - Create an AKS cluster
+* [Challenge 2](./Student/challenge02.md) - Set up GitOps on AKS
+* [Challenge 3](./Student/challenge03.md) - Understand YAML and Configs
+* [Challenge 4](./Student/challenge04.md) - Deploy application using Gitops
+* [Challenge 5](./Student/challenge05.md) - Deploy application using Helm Config Management
+* [Challenge 6](./Student/challenge06.md) - Deploy application using HelmRelease operator
+* [Challenge 7](./Student/challenge07.md) - GitOps - Operations by PR
+* [Challenge 8](./Student/challenge07.md) - GitOps for Self Service and Automation
+* [Challenge 9](./Student/challenge07.md) - GitOps for Uptime and Reliability
 
 ## Repository Contents
-- `../Student`
-  - Student Challenge Guides
-- `../Student/Resources`
-  - Student's resource files, code, and templates to aid with challenges
+
+* `../Student`
+  * Student Challenge Guides
+* `../Student/Resources`
+  * Student's resource files, code, and templates to aid with challenges
 
 ## Contributors
-- Rishabh Saha
+
+* Rishabh Saha
