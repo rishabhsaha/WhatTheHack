@@ -11,9 +11,10 @@ Now that you have deployed an application in the cluster using the vanilla k8 co
 ### Challenge
 
 1. Clone the fleet-infra repo created by flux on your local machine.
-2. Add the podinfo repository used in the previous challenge to Flux.
-3. Deploy podinfo application using flux
-4. Watch flux sync the application
+2. Add the [podinfo](https://github.com/stefanprodan/podinfo) repository used in the previous challenge to Flux.
+1. [Add](https://toolkit.fluxcd.io/get-started/#add-podinfo-repository-to-flux) podinfo repository to Flux
+1. [Deploy](https://toolkit.fluxcd.io/get-started/#deploy-podinfo-application) podinfo application using flux
+1. Watch flux sync the application
 
 ### Success Criteria
 

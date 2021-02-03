@@ -25,7 +25,7 @@ In this challenge we will setup the core components needed to complete this What
 1. In a local environment insure the following tools are avaliable:
    * Install [VSCode](https://code.visualstudio.com/) suitable for your operating system
    * Install [Docker](https://www.docker.com/get-started) suitable for your operating system
-   * Install and configure [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) command line tool
+   * Install and configure [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) v1.18+ command line tool
    * Install and configure [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) command line tool
    * Ensure you have a local terminal with appropriate access to be able to:
       * Create SSH Keys
