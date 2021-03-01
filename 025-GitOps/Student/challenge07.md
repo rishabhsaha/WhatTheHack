@@ -1,6 +1,6 @@
 # What The Hack - Gitops enabled Kubernetes Hack
 
-## Challenge 6 – Operations by PR
+## Challenge 7 – Operations by PR and manage GRC on AKS
 
 [Back](challenge06.md) - [Home](../readme.md) - [Next](challenge08.md)
 
@@ -18,6 +18,6 @@ In this challenge we will use GitOps to evaluate how it enables operations by PR
 
 ### Success Criteria
 
-This challenge will be complete when new cluster can have the same baseline items applied to it as an existing one.
+This challenge will be complete when new cluster can have the same baseline items applied to it as an existing one. (Learning resources to docs.Internal folks. )
 
 [Back](challenge06.md) - [Home](../readme.md) - [Next](challenge08.md)
